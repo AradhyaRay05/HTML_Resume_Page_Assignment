@@ -41,7 +41,7 @@ A clean, responsive, and professional single-page resume website built with pure
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/html-resume-website.git
+   git clone https://github.com/AradhyaRay05/HTML_Resume_Page_Assignment.git
    ```
 
 2. **Navigate to project directory**:
@@ -54,7 +54,7 @@ A clean, responsive, and professional single-page resume website built with pure
    - Or right-click and select "Open with" your preferred browser
 
 ### Live Demo
-🔗 [View Live Resume](your-deployment-url-here)
+🔗 [View Live Resume](https://aradhya-ray-resume-fd2ew5ke3-aradhya-rays-projects.vercel.app/)
 
 ## 📁 Project Structure
 
