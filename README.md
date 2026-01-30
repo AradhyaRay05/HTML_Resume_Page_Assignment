@@ -4,7 +4,7 @@ A clean, responsive, and professional single-page resume website built with pure
 
 ## 🌟 Features
 
-- **Pure HTML Implementation**: Built entirely with semantic HTML5 elements and attributes - no CSS frameworks or external libraries
+- **Pure HTML Implementation**: Built entirely with semantic HTML5 elements and attributes.
 - **Professional Design**: Clean layout with proper typography hierarchy and visual separation
 - **Responsive Structure**: Uses HTML table layouts and semantic elements for optimal viewing across devices  
 - **Accessibility Focused**: Proper heading structure, semantic markup, and screen reader friendly
